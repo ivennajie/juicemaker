@@ -10,6 +10,8 @@ the resulting juice should have:
 name: Orange&Apple
 capacity: 3.5
 
+Expected output: Orange&Apple (3.5L)
+
 The names have been combined using an & symbol.
 
 Use the __add__ method to define a custom behavior for the + operator 
